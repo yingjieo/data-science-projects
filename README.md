@@ -6,3 +6,6 @@ The goal of this project was to analyze the various features of a used car, deri
 
 ### [Amazon Movie Reviews](https://github.com/yingjieo/data-science-projects/blob/main/yingjieo_amazon_reviews_report.pdf)
 A report I wrote based on my findings for a week-long Kaggle competition where participants built a model that most accurately predicted the star review of a movie listed on Amazon.
+
+### [Boston Census Tracts](https://public.tableau.com/app/profile/alex.ouyang/viz/BostonCensusTracts/Dashboard1)
+Currently a work-in-progress interactive dashboard created via Tableau to showcase demographics of the Boston area, inspired by a university project. All data is publically available and stored under [data\census_boston](https://github.com/yingjieo/data-science-projects/tree/main/data/census_boston)
