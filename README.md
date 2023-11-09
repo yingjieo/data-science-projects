@@ -18,3 +18,9 @@ Currently a work-in-progress interactive dashboard created via Tableau to showca
 
 **Languages/Tools Used:** Python (For data cleaning), Tableau  
 **Concepts Applied:** Data Visualization  
+
+### [Air Quality in the US from 2012-2022](https://github.com/yingjieo/data-science-projects/blob/main/Air%20Quality%20in%20the%20US%20from%202012-2022.ipynb)
+A work-in-progress analysis on the air quality in the US in the past decade.
+
+**Languages/Tools Used:** Python (Pandas, NumPy), Jupyter  
+**Concepts Applied:** Exploratory Data Analysis, Data Visualization
